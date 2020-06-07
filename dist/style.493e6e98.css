@@ -1,0 +1,10 @@
+.mainWindow{
+    background-color: beige;
+}
+.paramsWindow{
+    display : grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 100px;
+}
+
+/*# sourceMappingURL=/style.493e6e98.css.map */
